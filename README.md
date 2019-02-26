@@ -1,1 +1,3 @@
-# rsschool-2019Q1-html-css# rsschool-2019Q1-codeacademy
+Yevgenii Kruichkov
+HTML CSS Basics: https://www.codecademy.com/users/OldFennec/achievements
+https://htmlacademy.ru/profile/id804917
